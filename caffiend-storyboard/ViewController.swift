@@ -5,7 +5,6 @@
 //  Created by John Martin on 3/6/15.
 //  Copyright (c) 2015 John Martin. All rights reserved.
 //
-// test commit
 
 import UIKit
 
